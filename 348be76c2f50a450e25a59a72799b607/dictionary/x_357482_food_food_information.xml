@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Food Information" max_length="40" name="x_357482_food_food_information" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Food Name" max_length="40" name="food_name" type="string"/>
+    </element>
+</database>
